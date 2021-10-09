@@ -8,7 +8,7 @@ Add this directory to PATH.
 
 How to run?
 Open directory in cmd.
-Input `sloth`
+Input `sloth`.
 Done.
 
 Documetation will be soon
