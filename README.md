@@ -11,4 +11,5 @@ Open directory in cmd.
 Input `sloth`.
 Done.
 
-Documetation will be soon
+Tutorials:
+https://github.com/sadhjkashdjasd/Sloth-Documenation
