@@ -13,3 +13,5 @@ Done.
 
 Tutorials:
 https://github.com/sadhjkashdjasd/Sloth-Documenation
+
+The newer version is aviable. Download link: https://github.com/sadhjkashdjasd/Sloth
